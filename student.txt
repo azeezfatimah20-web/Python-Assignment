@@ -1,4 +1,0 @@
-Name: Azeez Fatimah 
-Age: 30
-Department: Computer Science
-Favourite Language: Python

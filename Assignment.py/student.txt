@@ -1,4 +1,0 @@
-Name: Eniola Alamu Alala
-Age: 7
-Department: Childhood
-Favourite Language: JavaScript

@@ -1,0 +1,10 @@
+Name = input("Enter Student Name: ")
+Age = int(input("Enter Student Age: "))
+Department = input("Enter Student Department: ")
+Favourite_Language = input("Enter Favourite Language: ")
+
+print("......Student Profile.......")
+print("Name")
+print("Age")
+print("Department")
+print("Favourite_language")
